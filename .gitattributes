@@ -1,2 +1,1 @@
-SDL2/*linguist-SDL2
-static/*.h linguist-detectable=false
+*.C linguist-detectable=false
