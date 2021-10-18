@@ -1,1 +1,2 @@
-static/*.C linguist-detectable=false
+static/*.c linguist-detectable=false
+static/*.h linguist-detectable=false
