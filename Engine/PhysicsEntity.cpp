@@ -33,6 +33,9 @@ void PhysicsEntity::Update(float deltaTime)
 	Vector2 gravity = { 0, 0 };
 	Vector2 differenceToPlanet = (centredPosition - planet->centredPosition).Normalize() * 200;
 	acceleration = ((differenceToPlanet * -1) + drag);
+	
+	//**Uncomment line under out to remove star attraction
+	//acceleration = drag;
 
 
 	if (fabs(velocity.x * velocity.x + velocity.y * velocity.y) < 1.f)
