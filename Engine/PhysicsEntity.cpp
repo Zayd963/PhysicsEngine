@@ -29,13 +29,15 @@ PhysicsEntity::PhysicsEntity(std::shared_ptr<Camera> cam, char* filePath)
 void PhysicsEntity::Update(float deltaTime)
 {
 	
-	Vector2 drag = (velocity * -1) * 0.8;
-	Vector2 gravity = { 0, 0 };
-	Vector2 differenceToPlanet = (centredPosition - planet->centredPosition).Normalize() * 200;
-	acceleration = ((differenceToPlanet * -1) + drag);
-	
-	//**Uncomment line under out to remove star attraction
-	//acceleration = drag;
+	Vector2 differenceToPlanet = (planet->centredPosition - centredPosition);
+
+	float distance = differenceToPlanet.Mag();
+
+	Vector2 dir = differenceToPlanet.Normalize();
+
+	Vector2 force = (dir * 2000000) / (distance * distance);
+
+	acceleration = force;
 
 
 	if (fabs(velocity.x * velocity.x + velocity.y * velocity.y) < 1.f)

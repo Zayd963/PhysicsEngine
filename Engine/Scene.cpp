@@ -68,9 +68,9 @@ void Scene::Update(float deltaTime)
 		selectedEntity = nullptr;
 	}
 
-	StaticCollisionResolution();
+	/*StaticCollisionResolution();
 
-	DynamicCollisionResolution();
+	DynamicCollisionResolution();*/
 
 	for (auto ent : vecEntity)
 	{

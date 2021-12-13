@@ -1,36 +1,36 @@
 ﻿  Camera.cpp
   Entity.cpp
-C:\Dev\Engine\Engine\Entity.cpp(15,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Entity.cpp(15,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Input.cpp
   PhysicsEntity.cpp
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(13,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(32,38): warning C4305: 'argument': truncation from 'double' to 'const float'
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(50,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(76,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(76,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(76,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(76,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(86,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(86,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(86,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\PhysicsEntity.cpp(86,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(13,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(32,38): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(53,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(79,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(79,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(79,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(79,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(89,102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(89,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(89,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PhysicsEntity.cpp(89,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   PlanetEntity.cpp
-C:\Dev\Engine\Engine\PlanetEntity.cpp(14,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\PlanetEntity.cpp(14,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Scene.cpp
   SceneManager.cpp
   Source.cpp
-C:\Dev\Engine\Engine\Utils.h(35,11): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(25,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(101,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(101,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(100,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(100,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(108,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(108,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(108,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Dev\Engine\Engine\Source.cpp(107,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Utils.h(35,11): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(25,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(101,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(101,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(100,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(100,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(108,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(108,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(108,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zaydq\Desktop\Engine\Engine\Source.cpp(107,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Timer.cpp
   Vector2.cpp
   Generating Code...
@@ -57,7 +57,7 @@ Source.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced i
 Source.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "bool __cdecl Utils::InitSDLSystems(void)" (?InitSDLSystems@Utils@@YA_NXZ)
 Source.obj : error LNK2019: unresolved external symbol IMG_Init referenced in function "bool __cdecl Utils::InitSDLSystems(void)" (?InitSDLSystems@Utils@@YA_NXZ)
 MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Dev\Engine\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-C:\Dev\Engine\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-C:\Dev\Engine\SDL2\SDL2_image-2.0.5\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
-C:\Dev\Engine\x64\Debug\Engine.exe : fatal error LNK1120: 19 unresolved externals
+C:\Users\zaydq\Desktop\Engine\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\zaydq\Desktop\Engine\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\zaydq\Desktop\Engine\SDL2\SDL2_image-2.0.5\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\zaydq\Desktop\Engine\x64\Debug\Engine.exe : fatal error LNK1120: 19 unresolved externals
